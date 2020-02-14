@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+
+    //texto para componentes activity_main
+    <string name="title">Ingresa tu nombre y tú apellido:</string>
+    <string name="tNombre">Nombre</string>
+    <string name="tApellido">Apellido</string>
+    <string name="title2">Sume dos números:</string>
+    <string name="tN1">Ingresa un número</string>
+    <string name="tN2">Ingresa un número</string>
+
+    //texto para componentes activity_2
+    <string name="titleA_2">Estos son tus datos:</string>
+    <string name="title_1A_2">SUMA</string>
+    <string name="sigSuma">+</string>
+    <string name="sigIgual">=</string>
+
+    //botones
+    <string name="sendData">Enviar Datos</string>
+    <string name="returnActivity">Volver a Página Principal</string>
+
+</resources>
